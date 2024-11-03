@@ -2,25 +2,31 @@
 test-cases:
   - summary: |
      Проверка возможности поиска товара по ключевому слову
-  status: pass
+    status: pass
+    
   - summary: |
      Проверка возможности поиска товара по выбранной категории
-  status: pass
+    status: pass
+    
   - summary: |
     Проверка возможности фильтровать товары 
-  status: pass
+    status: pass
+  
   - summary: |
     Проверка возможности просмотра товаров
-  status: pass
+    status: pass
+    
   - summary: |
     Проверка возможности просмотра подробной информацию о товаре
-  status: pass
+    status: pass
+  
   - summary: |
     Проверка возможности добавления товаров в корзину
-  status: pass
+    status: pass
+  
   - summary: |
     Проверка возможности просмотра содержимого корзины
-  status: pass
+    status: pass
 
 bugreports: []
   
